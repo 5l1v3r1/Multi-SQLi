@@ -1,0 +1,4 @@
+Exemple : Put all your website here
+
+http://www.target1.com/page.php?id=1
+http://www.target2.com/page.php?id=
