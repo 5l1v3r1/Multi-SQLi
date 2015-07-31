@@ -1,2 +1,2 @@
 # Multi-SQLi
-Multi SQL Injection
+PHP Sql Injection Multi Scanner
